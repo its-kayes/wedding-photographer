@@ -1,0 +1,35 @@
+.footer-basic {
+    margin-top: 2%;
+    padding: 40px 0;
+}
+
+.social {
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+.social>a {
+    font-size: 24px;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    display: inline-block;
+    text-align: center;
+    border-radius: 50%;
+    border: 1px solid black;
+    margin: 0 8px;
+    color: inherit;
+    opacity: 0.75;
+}
+
+.social>a:hover {
+    color: #f12711;
+}
+
+.copyright {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 20px;
+    color: black;
+    margin-bottom: 0;
+}

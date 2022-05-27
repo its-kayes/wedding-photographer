@@ -1,0 +1,11 @@
+.ans-container {
+    display: grid;
+    grid-template-columns: 1fr;
+}
+.ans-div {
+    border: 2px solid rgb(209, 201, 201);
+    background-color: rgb(209, 201, 201);
+    border-radius: 20px;
+    padding: 20px;
+    margin: 5%;
+}

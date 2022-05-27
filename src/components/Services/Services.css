@@ -1,0 +1,21 @@
+.services-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 20px;
+    margin-top: 30px;
+
+}
+
+.per-review {
+    margin-top: 50px;
+}
+
+
+@media only screen and (max-width:576px) {
+    .services-container {
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .sm-card {
+        width: 100% !important;
+    }
+}

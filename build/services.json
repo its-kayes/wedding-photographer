@@ -1,0 +1,42 @@
+[
+    {
+        "postId": 3,
+        "id": 1,
+        "name": "Full Programme Photo Shoot",
+        "body": "In this service I'll do cover full programme photo shoot ",
+        "price": "$199",
+        "userImg": "https://img.freepik.com/free-photo/blue-white-wedding-aisle-beach-surrounded-by-palms-with-sea-background_181624-32618.jpg?w=1060&t=st=1650134420~exp=1650135020~hmac=a8cce6e778c660a50d0a20b753332276bf52c80c0ded103f525229bd2f2c46c8"
+    },
+    {
+        "postId": 3,
+        "id": 2,
+        "name": "Gaye holud Photo Shoot",
+        "price": "$99",
+        "body": "In this service I just cover Gaye holud programme photo shoot",
+        "userImg": "http://media-cache-ec0.pinimg.com/736x/1e/49/a8/1e49a80f23cc5b6e3cfdec7075f9ac71.jpg"
+    },
+    {
+        "postId": 3,
+        "id": 3,
+        "name": "Wedding Photo Shoot",
+        "body": "In this service I'll cover Only Wedding section photo shoot ",
+        "price": "$150",
+        "userImg": "https://img.freepik.com/free-photo/picture-beautiful-couple-posing-with-blue-smoke-bomb-beach_181624-31837.jpg?t=st=1650134456~exp=1650135056~hmac=de5cd3c1a4c66e78b9b44af8545bb36483150d2073dd652e98e0b3456581c181&w=1060"
+    },
+    {
+        "postId": 4,
+        "id": 4,
+        "name": "Wedding Video Shoot",
+        "body": " In this service I'll make video for your wedding",
+        "price": "$299",
+        "userImg": "https://www.villaasada.com/resources/asada/headers/mobile/xVilla,P20Asada,P20-,P20Weddings.jpg.pagespeed.ic._sKHSVife_.jpg"
+    },
+    {
+        "postId": 5,
+        "id": 5,
+        "name": "Wedding Photo & Video Edit",
+        "body": "In this service I do edit all your photo and video edit",
+        "price": "$399",
+        "userImg": "https://1.bp.blogspot.com/-NcfbyKMOxG8/Xg_x5Mcvl2I/AAAAAAAApEM/lkYu_mN0BWUUQcHK7tZz1F1cOHYsZT95QCLcBGAsYHQ/s1600/wedding-photo-editor-photoshop.jpg"
+    }
+]

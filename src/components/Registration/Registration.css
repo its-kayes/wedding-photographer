@@ -1,0 +1,17 @@
+.register-form{
+    margin: 0 auto;
+    width: 50%;
+}
+.register-form input{
+    display: inline;
+    width: 70%;
+    height: 50px;
+    padding-left: 10px;
+    font-size: 18px;
+    margin-bottom: 25px;
+    border-radius: 10px;
+}
+.submit-button {
+    background-color: #b74706;
+    color: rgb(218, 208, 188);
+}
